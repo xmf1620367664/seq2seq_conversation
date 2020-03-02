@@ -1,0 +1,15 @@
+./chinese/humor.yml
+./chinese/gossip.yml
+./chinese/science.yml
+./chinese/greetings.yml
+./chinese/sports.yml
+./chinese/emotion.yml
+./chinese/money.yml
+./chinese/ai.yml
+./chinese/botprofile.yml
+./chinese/politics.yml
+./chinese/food.yml
+./chinese/trivia.yml
+./chinese/history.yml
+./chinese/psychology.yml
+./chinese/movies.yml
